@@ -26,6 +26,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/istanbul-lib-coverage": "^2.0.1",
+    "@typescript-eslint/typescript-estree": "^3.6.1",
+    "@typescript-eslint/visitor-keys": "^3.6.1",
     "convert-source-map": "^1.6.0",
     "source-map": "^0.7.3"
   },
